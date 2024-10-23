@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224508527308",
+    "project_id": "sewa-tool-camp",
+    "storage_bucket": "sewa-tool-camp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224508527308:android:dc02421bc60337ce4d7869",
+        "android_client_info": {
+          "package_name": "com.exa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvRTOxkcNIIrl0RtdRdAbqiZqJ5yc7t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
